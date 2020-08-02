@@ -1,0 +1,112 @@
+{
+  "ret": true,
+  "data": {
+    "city":"东莞",
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/34/34170b200db08a5a90.img.jpg_600x330_9fee26e9.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/a2/a2db6aea3707663a90.img.jpg_600x330_95322c03.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1905/af/af4f95f579ee43b1a3.water.jpg_600x330_164b10ec.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1902/26/2672dedbfb2ab2c4a3.img.jpg_600x330_57118d00.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "东莞必游"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+        "desc": "泡温泉"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "desc": "植物园"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/184e261814a5d07a5d3d08cd29cf590d.png",
+        "desc": "长隆度假区"
+      }, {
+        "id": "0006",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png",
+        "desc": "东莞观音山"
+      }, {
+        "id": "0007",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/cba147cf6cfcea7109d0bff6aac6f626.png",
+        "desc": "香市动物园"
+      }, {
+        "id": "0008",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/90/59a2f523ee2f9202.png",
+        "desc": "隐贤山庄"
+      }, {
+        "id": "0009",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/8c/47630407f70e8302.png",
+        "desc": "龙凤山庄"
+      }, {
+        "id": "0010",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/bda58ffc3016edad84e656e8a94b0321.png",
+        "desc": "广州融创"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1511/34/34170b200db08a5a90.img.jpg_200x200_cc3130fd.jpg",
+        "title": "隐贤山庄",
+        "desc": "灵山秀水的隐贤山庄，星罗棋布的人文景观"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1811/c7/c704c3bcfc62e6f8a3.img.jpg_200x200_fd6c9072.jpg",
+        "title": "东莞空气湃运动馆",
+        "desc": "空气湃是一家大型室内运动娱乐主题公园，集运动、娱乐、健身、科技体验于一体"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1602/a2/a2db6aea3707663a90.img.jpg_200x200_cbf889a6.jpg",
+        "title": "梦幻百花洲",
+        "desc": "丢下一粒籽，发了一颗芽"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1902/7a/7ac34ad6cc6e7497a3.img.jpg_200x200_939e55b1.jpg",
+        "title": "东莞龙凤山庄影视渡假村",
+        "desc": "舟行碧波上，人在画中玩儿"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1603/1d/1d756648039bf30f90.water.jpg_200x200_64da9a70.jpg",
+        "title": "东莞香市动物园",
+        "desc": "感受前所未有的感官刺激和视觉享受，可以看到民间的杂技"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1507/d9/2ddc7652fdba16.jpg_r_640x214_5e62f1a3.jpg",
+        "title": "深圳周边游",
+        "desc": "远离城市拥堵，去周边开启清新假期吧。"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+        "title": "清远周边逛",
+        "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+        "title": "浮在海上的绿洲",
+        "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/4b/d04aa63b1b0ab3.jpg_r_640x214_a3a9c5b6.jpg",
+        "title": "东莞打卡",
+        "desc": "东莞，向往一座城，不需要理由"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1602/88/bf120edeaea383.jpg_r_640x214_f8591f7b.jpg",
+        "title": "欢乐长隆",
+        "desc": "世界欢乐汇聚长隆，这里拥有多个大型游乐设备和精彩的演出，和小伙伴们一起感受刺激的体验"
+      }]
+  }
+}
