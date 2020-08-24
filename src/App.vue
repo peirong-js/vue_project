@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- 显示当前路由对应组件 -->
-    <keep-alive>
+    <keep-alive exclude="Detail">   <!-- 除detail组件不缓存 -->
       <router-view/>
     </keep-alive>
   </div>
